@@ -1,0 +1,19 @@
+[
+  {
+    "title": "Project A",
+    "imageSrc": "projects/Prescripto.webp",
+    "description": "Prescripto is a full-stack web application designed for scheduling doctor appointments with ease.",
+    "skills": ["React", "Express", "Node", "MongoDB", "Tailwind Css"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Project B",
+    "imageSrc": "projects/Gofood.webp",
+    "description": "Gofood is a full-stack food ordering website built with the MERN stack.",
+    "skills": ["React", "Express", "Node", "MongoDB" , "Tailwind Css"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+  
+]
