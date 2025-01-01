@@ -100,6 +100,23 @@
   z-index: 0;
 }
 
+
+
+.heroImage {
+  display: block;
+  width: 100%; /* Adjust width as needed */
+  height: auto; /* Maintain aspect ratio */
+  
+  /* Add gradient fade effect */
+  mask-image: linear-gradient(to bottom, black 80%, transparent 100%);
+  -webkit-mask-image: linear-gradient(to bottom, black 80%, transparent 100%);
+  
+  /* Optional: Remove straight edge with rounded corners */
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+
+
 @media screen and (max-width: 830px) {
   .container {
     flex-direction: column-reverse;
