@@ -104,7 +104,7 @@
 
 .heroImage {
   display: block;
-  width: 100%; /* Adjust width as needed */
+  width: 50%; /* Adjust width as needed */
   height: auto; /* Maintain aspect ratio */
   
   /* Add gradient fade effect */
