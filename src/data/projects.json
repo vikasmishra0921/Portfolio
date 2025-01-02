@@ -4,8 +4,8 @@
     "imageSrc": "projects/Prescripto.webp",
     "description": "Prescripto is a full-stack web application designed for scheduling doctor appointments with ease.",
     "skills": ["React", "Express", "Node", "MongoDB", "Tailwind Css"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://prescripto-easy-appointment.netlify.app/",
+    "source": "https://github.com/vikasmishra0921/prescripto"
   },
   {
     "title": "Project B",
